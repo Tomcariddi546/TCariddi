@@ -175,16 +175,18 @@ body {
 }
 
 #skills {
-	padding: 5px 200px;
+
 	text-align: center;
 	display: flex;
 	justify-content: center;
 	align-content: stretch;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 #skills > div {
-	width: 300px;
-	padding: 75px;
+	width: 400px;
+	padding: 65px;
 	display: inline-block;
 }
 
